@@ -29,7 +29,9 @@ It allows you to create square matrices of your data providers!
 
 # Installation
 
-Installation for PHP 5.6 and later:
+Installation for PHP 7.0 and later:
+
+Add git@github.com:digiaonline/CrossDataProviders.git repository to composer.json
 
 ```bash
 $ composer require --dev rawr/cross-data-providers
